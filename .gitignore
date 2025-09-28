@@ -1,0 +1,11 @@
+# Python
+.venv
+venv
+__pycache__
+
+# Database
+instance
+
+# Others
+requests.http
+/uploads
