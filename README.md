@@ -19,8 +19,8 @@ Este é um projeto desenvolvido com [Flask](https://flask.palletsprojects.com/),
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/Diounata/AdTV.git
-cd AdTV/backend
+git clone https://github.com/Diounata/ifms-lab-checker.git
+cd ifms-lab-checker/backend
 ```
 
 ### 2. Crie e ative um ambiente virtual
